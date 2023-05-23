@@ -1,0 +1,31 @@
+.rr {
+  text-align: center;
+  color: rgb(20, 131, 63);
+}
+
+.g {
+  color: black !important;
+  font-size: 225%;
+  text-align: center;
+}
+.mb-0{
+  margin-bottom: 0;
+}
+.card{
+  width: 18rem;
+  border: 2px solid black;
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+}
+.justufy{
+  text-align: justify;
+}
+.card:hover{
+  cursor: pointer;
+  transform: scale(1.03);
+  transition: all 1s ease;
+  box-shadow: 5px 5px 20px rgb(55, 62, 69);
+}
+.card-image{
+  background-size: cover;
+}
